@@ -8,8 +8,11 @@ Web Developer - Full Stack
 *   🤝  I'm open to collaborating on Everything.
 *   ⚡  I'm secretly spiderman, but don't tell any one.
 *   <a href="https://www.github.com/IrfanshaikH-7" target="_blank" rel="noreferrer">
+ ![](https://komarev.com/ghpvc/?username=IrfanshaikH-7)
+ 
 <img src="https://img.shields.io/github/followers/IrfanshaikH-7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
  </a>
+
  
 ### Skills 
 <p align="left">
