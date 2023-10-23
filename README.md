@@ -43,9 +43,9 @@ For more projects, you can explore my GitHub repositories.
 If you'd like to get in touch with me or know more about my projects, feel free to reach out. Here's how you can contact me:
 
 - Email: 414irfann@gmail.com
-- LinkedIn: TO-BE Updated.
+- LinkedIn:https://www.linkedin.com/in/irfan-shaikh-1a1a9b297/
 - Twitter: TO-BE Update.
-- Personal Website: 🚧Underdevelopment
+- Personal Website: https://my-portfolio-irfanshaikh-7.vercel.app
 
 I am open to collaboration, job opportunities, and connecting with fellow developers. Feel free to connect and let's create magic together!
 
