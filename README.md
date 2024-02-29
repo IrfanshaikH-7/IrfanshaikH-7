@@ -1,8 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shaik Irfan
 ===================================================================================================================================
 
-
-!https://drive.google.com/file/d/15tmA1GmMhnCPhBTixj5-A7x59bJwudZ5/view?usp=drive_link
 Web Developer - Full Stack
 --------------------------
 
