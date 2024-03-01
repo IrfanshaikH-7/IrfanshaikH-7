@@ -4,9 +4,9 @@
 <div align="center">
  
  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/IrfanshaikH-7)
- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-shaik-kh-230bba206/)
- [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:414irfann@gmail.com)
- [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:irfann414@outlook.com)
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-shaik-kh-230bba206/)
+ [![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:414irfann@gmail.com)
+ [![Outloook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:irfann414@outlook.com)
  
 </div>
 
@@ -21,20 +21,26 @@
 </div>
 
 <div align="center" width="480">
+
+  ↬&nbsp;&nbsp;I'm learning continuously by building new things.✨</br>
+  ↬&nbsp;&nbsp;I'm open to collaborating on Everything. 🤝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br>
+  ↬&nbsp;&nbsp;I'm secretly spiderman, but don't tell any one. 🕷️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br>
+  
+</div>
+
+<div align="center" width="480">
+
+ <a href="https://www.github.com/IrfanshaikH-7" target="_blank" rel="noreferrer">
+  
+  ![Views](https://komarev.com/ghpvc/?username=IrfanshaikH-7)
  
-  I'm learning NextJs </br>
-  I'm open to collaborating on Everything.</br>
-  I'm secretly spiderman, but don't tell any one.</br>
+ </a>
   
 </div>
 
 
-  <a href="https://www.github.com/IrfanshaikH-7" target="_blank" rel="noreferrer">
-   
- ![](https://komarev.com/ghpvc/?username=IrfanshaikH-7)
- 
-<img src="https://img.shields.io/github/followers/IrfanshaikH-7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
- </a>
+
+  
 
  
 ### Skills 
@@ -44,7 +50,7 @@
      # IrfanshaikH-7
 
 [![GitHub followers](https://img.shields.io/github/followers/IrfanshaikH-7?style=social)](https://github.com/IrfanshaikH-7)
-[![GitHub](https://img.shields.io/github/followers/IrfanshaikH-7?label=Follow&style=social)](https://github.com/IrfanshaikH-7)
+[![Github](https://img.shields.io/github/followers/IrfanshaikH-7?label=Follow&style=social)](https://github.com/IrfanshaikH-7)
 [![Linkedin](https://img.shields.io/badge/-Irfan%20Shaik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irfan-shaik-kh-230bba206/)](https://www.linkedin.com/in/irfan-shaik-kh-230bba206/)
 
 Welcome to my GitHub profile! I'm Irfan Shaik, a tech wizard who enjoys weaving spells of code to create magic in the digital realm. With a passion for coding and technology, I strive to build versatile projects that showcase my skills and interests. In this README, I will provide a comprehensive self-introduction, analyze my GitHub profile, and highlight my best projects.
