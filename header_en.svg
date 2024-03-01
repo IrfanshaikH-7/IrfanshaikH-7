@@ -32,7 +32,7 @@ rect.headerRect:hover {
 .wave {
   animation: wave 3s linear;
   animation-iteration-count:infinite;
-  fill: #ffffff;  
+  fill: #4447e3;  
 }
 
 .wave:hover {
