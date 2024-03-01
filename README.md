@@ -1,11 +1,36 @@
 
 ![giffy](https://github.com/IrfanshaikH-7/IrfanshaikH-7/blob/main/header_en.svg)
 
+<div align="center">
+ 
+ [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/IrfanshaikH-7)
+ [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-shaik-kh-230bba206/)
+ [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:414irfann@gmail.com)
+ [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:irfann414@outlook.com)
+ 
+</div>
 
-*   🧠  I'm learning NextJs
-*   🤝  I'm open to collaborating on Everything.
-*   ⚡  I'm secretly spiderman, but don't tell any one.
-*   <a href="https://www.github.com/IrfanshaikH-7" target="_blank" rel="noreferrer">
+<div align="center">
+
+ #### **A LITTLE ABOUT ME**
+ 
+ I'm a Grad Student🎓 majoring in Computer Science. I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new techs. I love building interesting and amazing products that serve a great    deal of purpose.
+ 
+</div>
+
+</div>
+
+<div align="center" width="480">
+ 
+  I'm learning NextJs </br>
+  I'm open to collaborating on Everything.</br>
+  I'm secretly spiderman, but don't tell any one.</br>
+  
+</div>
+
+
+  <a href="https://www.github.com/IrfanshaikH-7" target="_blank" rel="noreferrer">
+   
  ![](https://komarev.com/ghpvc/?username=IrfanshaikH-7)
  
 <img src="https://img.shields.io/github/followers/IrfanshaikH-7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
