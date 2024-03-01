@@ -1,11 +1,6 @@
 
 ![giffy](https://github.com/IrfanshaikH-7/IrfanshaikH-7/blob/main/header_en.svg)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shaik Irfan
-===================================================================================================================================
-
-Web Developer - Full Stack
---------------------------
 
 *   🧠  I'm learning NextJs
 *   🤝  I'm open to collaborating on Everything.
