@@ -136,17 +136,6 @@ For more projects, you can explore my GitHub repositories.
 
 &nbsp;
 
-## Contact Me
-
-If you'd like to get in touch with me or know more about my projects, feel free to reach out. Here's how you can contact me:
-
-- Email: 414irfann@gmail.com
-- LinkedIn: https://www.linkedin.com/in/IrfanshaikH-n7/
-- Twitter: TO-BE Update.
-- Personal Website: https://my-portfolio-irfanshaikh-7.vercel.app
-
-I am open to collaboration, job opportunities, and connecting with fellow developers. Feel free to connect and let's create magic together!
-
 ## GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IrfanshaikH-7)
 
