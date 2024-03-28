@@ -41,14 +41,18 @@
 &nbsp;
 
 <div align="center">
-
+ 
 ## SKILLS
 
-<img align="center" width="100%" alt="🦑" src="/icons.svg">
+<img align="center" marginLeft={24} width="70%" alt="🦑" src="/icons.svg">
 
 </div>
 
-
+&nbsp;&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
      # IrfanshaikH-7
 
