@@ -40,11 +40,13 @@
 
 &nbsp;
 
-<div align="center">
+<div align="center" width="">
  
 ## SKILLS
 
-<img align="center" marginLeft={24} width="70%" alt="🦑" src="/icons.svg">
+ 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img align="center"  width="100%" alt="🦑" src="/icons.svg">
+
 
 </div>
 
