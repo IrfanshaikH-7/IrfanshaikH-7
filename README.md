@@ -62,8 +62,6 @@
 [![Github](https://img.shields.io/github/followers/IrfanshaikH-7?label=Follow&style=social)](https://github.com/IrfanshaikH-7)
 [![Linkedin](https://img.shields.io/badge/-Irfan%20Shaik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irfan-shaik-kh-230bba206/)](https://www.linkedin.com/in/irfan-shaik-kh-230bba206/)
 
-Welcome to my GitHub profile! I'm Irfan Shaik, a tech wizard who enjoys weaving spells of code to create magic in the digital realm. With a passion for coding and technology, I strive to build versatile projects that showcase my skills and interests. In this README, I will provide a comprehensive self-introduction, analyze my GitHub profile, and highlight my best projects.
-
 &nbsp;
 
 <details>
